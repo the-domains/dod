@@ -1,7 +1,6 @@
 name: DOD
 favicon: null
 layout_spectrum: 0.8
-title: The Wizard Switch
 cta:
   domain: null
   bucket: null
@@ -25,7 +24,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: sign-ups
-    item: null
-    url: null
+purpose: []
